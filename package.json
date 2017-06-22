@@ -1,0 +1,22 @@
+{
+  "name": "pn-bebebordo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "apn": "^2.1.4",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "firebase": "^3.7.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "node-gcm": "^0.14.5",
+    "node-pushnotifications": "^1.0.17",
+    "serve-favicon": "~2.4.2",
+    "underscore": "^1.8.3"
+  }
+}
